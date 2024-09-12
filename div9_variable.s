@@ -1,5 +1,5 @@
-# Program to check if a0 is divisible by 9
-# If divisible, a0 = 1; else a0 = 0
+# Programa para comprobar si a0 es divisible por 9
+# si es divisible, a0 = 1; si no a0 = 0
 
     addi a0, x0, 9     # Cargar el valor 9 en a0 (Variar este valor '9' para hacer pruebas)
    addi t0, x0, 9     # Cargar constante 9 en t0 (divisor)
