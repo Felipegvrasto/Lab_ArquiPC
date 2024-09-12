@@ -20,4 +20,4 @@ divisible:
     addi a0, x0, 1         # Set a0 to 1 (divisible by 9)
 
 finish:
-    # Program ends
+    # fin del programa
